@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PushkarP-404
-- 👀 I’m interested in Web and Software Development and Game Dev.
+- 👀 I’m interested in Web and Software Development, AI/ML and Game Dev.
 - 🌱 I’m currently learning Python for LLMs.
 - 💞️ I’m looking to collaborate on Game / Web Development projects.
 - 📫 How to reach me - email me @ pushkar404.p@gmail.com or DM on Twitter(X) @pushkar404
