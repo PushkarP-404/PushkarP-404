@@ -1,5 +1,5 @@
 # 🦇 About Me:
-👋 Hi, I’m @PushkarP-404<br>👀 I’m interested in Web and Software Development, AI/ML and Game Dev.<br>🌱 I’m currently learning Python for LLMs.<br>💞️ I’m looking to collaborate on Webdev / AI and ML projects! <br>📫 How to reach me - email me @ pushkar404.p@gmail.com or DM on Twitter(X) @pushkar404
+👋 Hi, I’m @PushkarP-404<br>👀 I’m interested in Web and Software Development, AI/ML and Game Dev.<br>🌱 I’m currently learning Python for LLMs.<br>💞️ I’m looking to collaborate on Webdev / AI and ML projects! <br>📫 How to reach me - email me @ pushkar404.p@gmail.com or DM on Twitter(X) @pushkar404 <br> 💻 Checkout my latest project : https://citeos.vercel.app/login
 
 
 ## 🌐 Socials:
