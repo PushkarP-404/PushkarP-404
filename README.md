@@ -1,6 +1,6 @@
-| Profile | About |
-|---------|-------|
-| <img src="https://via.placeholder.com/150" alt="Profile" width="120" style="border: 2px solid #ccc; border-radius: 8px;"> | # 🦇 About Me:<br>👋 Hi, I'm @PushkarP-404<br>👀 I'm interested in Web and Software Development, AI/ML and Game Dev.<br>🌱 I'm currently learning Python for LLMs.<br>💞️ I'm looking to collaborate on [...] |
+| About | Profile |
+|-------|---------|
+| # 🦇 About Me:<br>👋 Hi, I'm @PushkarP-404<br>👀 I'm interested in Web and Software Development, AI/ML and Game Dev.<br>🌱 I'm currently learning Python for LLMs.<br>💞️ I'm looking to collaborate on [...] | <img src="https://via.placeholder.com/150" alt="Profile" width="120" style="border: 2px solid #ccc; border-radius: 8px;"> |
 
 
 ## 🌐 Socials:
