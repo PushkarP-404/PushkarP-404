@@ -1,5 +1,5 @@
 # 🦇 About Me:
-👋 Hi, I'm Pushkar<br>👀 I'm interested in Web and Software Development, AI/ML and Game Dev.<br>💞️ I'm looking to collaborate on AI-ML / Web Development projects.<br>📫 How to reach me - email me @ pushkar404.p@gmail.com or DM on Twitter(X) @pushkar404
+• Hi, I'm Pushkar<br>• I'm interested in Web and Software Development, AI/ML and Game Dev.<br>• I'm looking to collaborate on AI-ML / Web Development projects.<br>• How to reach me - email me @ pushkar404.p@gmail.com or DM on Twitter(X) @pushkar404
 
 
 ## 🌐 Socials:
